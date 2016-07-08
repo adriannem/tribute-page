@@ -1,3 +1,18 @@
+.text-primary {
+font-family: 'Patua One', cursive;
+
+
+}
+
+
+.container {
+padding-top: 70px;
+font-family: 'Lora', serif;
+font-size: 1.2em;
+}
+
+
+
 .img-responsive {
   margin: 0 auto;
 }
