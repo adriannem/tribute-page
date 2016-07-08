@@ -1,7 +1,5 @@
 .text-primary {
 font-family: 'Patua One', cursive;
-
-
 }
 
 
@@ -15,4 +13,8 @@ font-size: 1.2em;
 
 .img-responsive {
   margin: 0 auto;
+}
+
+blockquote {
+  font-weight: bold;
 }
